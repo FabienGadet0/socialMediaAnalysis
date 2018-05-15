@@ -4,7 +4,7 @@ import tweepy
 import time
 from tweepy import OAuthHandler
 import sys
-
+import json
 
 consumer_key = 'iHrwgD3YzLCq5PXC46fjg31SO'
 consumer_secret = 'tY9UbVKzW1ZuPzP91T1p4IcE5uVtbyXTdtXeUrIveHkSnEXGwa'
@@ -13,33 +13,35 @@ access_secret = 'TnL0BoNTvvAJlYnnNwubCBSyDxghnfuDgE56EITGu5XJx'
 
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
-api = tweepy.API(auth)
+api = tweepy.API(auth)#, parser=tweepy.parsers.JSONParser())
+
+
 if(api.verify_credentials):
     print ('Connected to the twitter API')
 
-def get_profile(name):
+def get_profile(name, file):
     try:
-        user = api.get_user(screen_name = name)
-        print(user.name)
+        user = api.get_user(screen_name = name, count = 1)
+        # user = json.dumps(user)
+        file.write ("%s\n\n\n" % user)
     except:
-        print('timeOut')
+        print('error profile', sys.exc_info()[0])
 
-def get_tweet(name, count = 100):
-    # name = "result/" + name
+def get_tweet(name, file, count = 25):
     try:
-        file = open(name, 'w')
-        timeline = api.user_timeline(screen_name=name, count=count)
-        # print(timeline.name)
+        # timeline = json.loads(json.dumps(api.user_timeline(screen_name=name, count= count)[0]))
+        timeline = api.user_timeline(screen_name=name, count= count)
         for tweet in timeline:
-        # file.write ("%s\n"  % tweet.created_at)
-            file.write ("\n%s\n"  % tweet.text)
-        print('finished, all results are written in the file' , name)
+            file.write ("%s"  % tweet.text)
     except:
-        print ('Error , check your connection')
-
-if __name__ == '__main__':
+        print ('Error tweets', sys.exc_info()[0])
+ 
+if __name__ == '__main__' :
     try:
         for name in sys.argv[1:]:
-            get_tweet(name = name)
+            file = open(name, 'w')
+            get_profile(name = name, file = file)
+            get_tweet(name = name, file = file)
+            print('finished')
     except KeyboardInterrupt:
         quit()
