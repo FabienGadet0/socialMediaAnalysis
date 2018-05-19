@@ -1,26 +1,182 @@
-User(profile_background_color='C0DEED', created_at=datetime.datetime(2013, 10, 20, 19, 35, 28), _api=<tweepy.api.API object at 0x7fb5e5248080>, description='Président de la République française.', profile_link_color='1DA1F2', translator_type='none', friends_count=679, url='https://t.co/tXWVLyHyWM', profile_background_tile=False, utc_offset=7200, _json={'profile_background_color': 'C0DEED', 'created_at': 'Sun Oct 20 19:35:28 +0000 2013', 'description': 'Président de la République française.', 'profile_link_color': '1DA1F2', 'translator_type': 'none', 'friends_count': 679, 'url': 'https://t.co/tXWVLyHyWM', 'utc_offset': 7200, 'profile_background_tile': False, 'notifications': False, 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'protected': False, 'entities': {'url': {'urls': [{'url': 'https://t.co/tXWVLyHyWM', 'expanded_url': 'http://www.elysee.fr', 'display_url': 'elysee.fr', 'indices': [0, 23]}]}, 'description': {'urls': []}}, 'follow_request_sent': False, 'statuses_count': 6713, 'screen_name': 'EmmanuelMacron', 'listed_count': 7226, 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'id_str': '1976143068', 'verified': True, 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/834424630630817795/TfyS4uXb_normal.jpg', 'following': False, 'geo_enabled': True, 'profile_use_background_image': True, 'id': 1976143068, 'name': 'Emmanuel Macron', 'profile_sidebar_border_color': 'C0DEED', 'status': {'source': '<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', 'in_reply_to_user_id': 1976143068, 'in_reply_to_status_id': 995423710088761344, 'id': 995423712764727297, 'truncated': False, 'created_at': 'Sat May 12 22:01:21 +0000 2018', 'in_reply_to_screen_name': 'EmmanuelMacron', 'favorited': False, 'favorite_count': 5896, 'is_quote_status': False, 'geo': None, 'text': 'La France paye une nouvelle fois le prix du sang mais ne cède pas un pouce aux ennemis de la liberté (2/2).', 'in_reply_to_status_id_str': '995423710088761344', 'entities': {'hashtags': [], 'symbols': [], 'urls': [], 'user_mentions': []}, 'retweeted': False, 'id_str': '995423712764727297', 'lang': 'fr', 'contributors': None, 'place': None, 'coordinates': None, 'retweet_count': 2344, 'in_reply_to_user_id_str': '1976143068'}, 'has_extended_profile': False, 'followers_count': 3010319, 'is_translator': False, 'profile_image_url': 'http://pbs.twimg.com/profile_images/834424630630817795/TfyS4uXb_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/1976143068/1522958184', 'profile_text_color': '333333', 'is_translation_enabled': False, 'lang': 'fr', 'profile_sidebar_fill_color': 'DDEEF6', 'favourites_count': 15, 'contributors_enabled': False, 'time_zone': 'Paris', 'profile_location': None, 'default_profile': True, 'default_profile_image': False, 'location': 'France'}, notifications=False, listed_count=7226, protected=False, entities={'url': {'urls': [{'url': 'https://t.co/tXWVLyHyWM', 'expanded_url': 'http://www.elysee.fr', 'display_url': 'elysee.fr', 'indices': [0, 23]}]}, 'description': {'urls': []}}, follow_request_sent=False, statuses_count=6713, screen_name='EmmanuelMacron', profile_background_image_url_https='https://abs.twimg.com/images/themes/theme1/bg.png', profile_background_image_url='http://abs.twimg.com/images/themes/theme1/bg.png', id_str='1976143068', verified=True, profile_image_url_https='https://pbs.twimg.com/profile_images/834424630630817795/TfyS4uXb_normal.jpg', following=False, geo_enabled=True, profile_use_background_image=True, id=1976143068, name='Emmanuel Macron', profile_sidebar_border_color='C0DEED', status=Status(source='Twitter for iPhone', source_url='http://twitter.com/download/iphone', in_reply_to_status_id=995423710088761344, _api=<tweepy.api.API object at 0x7fb5e5248080>, id=995423712764727297, in_reply_to_user_id=1976143068, retweet_count=2344, created_at=datetime.datetime(2018, 5, 12, 22, 1, 21), _json={'source': '<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', 'in_reply_to_user_id': 1976143068, 'in_reply_to_status_id': 995423710088761344, 'id': 995423712764727297, 'truncated': False, 'created_at': 'Sat May 12 22:01:21 +0000 2018', 'in_reply_to_screen_name': 'EmmanuelMacron', 'favorited': False, 'favorite_count': 5896, 'is_quote_status': False, 'geo': None, 'text': 'La France paye une nouvelle fois le prix du sang mais ne cède pas un pouce aux ennemis de la liberté (2/2).', 'in_reply_to_status_id_str': '995423710088761344', 'entities': {'hashtags': [], 'symbols': [], 'urls': [], 'user_mentions': []}, 'retweeted': False, 'id_str': '995423712764727297', 'lang': 'fr', 'contributors': None, 'place': None, 'coordinates': None, 'retweet_count': 2344, 'in_reply_to_user_id_str': '1976143068'}, in_reply_to_screen_name='EmmanuelMacron', favorited=False, favorite_count=5896, is_quote_status=False, geo=None, text='La France paye une nouvelle fois le prix du sang mais ne cède pas un pouce aux ennemis de la liberté (2/2).', in_reply_to_status_id_str='995423710088761344', entities={'hashtags': [], 'symbols': [], 'urls': [], 'user_mentions': []}, retweeted=False, id_str='995423712764727297', lang='fr', contributors=None, place=None, coordinates=None, truncated=False, in_reply_to_user_id_str='1976143068'), has_extended_profile=False, followers_count=3010319, is_translator=False, profile_image_url='http://pbs.twimg.com/profile_images/834424630630817795/TfyS4uXb_normal.jpg', profile_banner_url='https://pbs.twimg.com/profile_banners/1976143068/1522958184', profile_text_color='333333', is_translation_enabled=False, lang='fr', profile_sidebar_fill_color='DDEEF6', favourites_count=15, contributors_enabled=False, time_zone='Paris', profile_location=None, default_profile=True, default_profile_image=False, location='France')
+name :Emmanuel Macron
+location : France
+pic : https://pbs.twimg.com/profile_images/834424630630817795/TfyS4uXb_normal.jpg
+friend count : 679 
+description : Président de la République française.
+url : https://t.co/tXWVLyHyWM
 
-
-La France paye une nouvelle fois le prix du sang mais ne cède pas un pouce aux ennemis de la liberté (2/2).Toutes mes pensées vont aux victimes et aux blessés de l’attaque au couteau perpétrée ce soir à Paris, ainsi qu’à l… https://t.co/9wIMmPGNS7Per battere i nazionalismi: prendere atto di avere una sovranità europea, sviluppare la solidarietà... e non mollar… https://t.co/qoUb7vy3IlTo overcome all forms of nationalism, we need to be proud of having European sovereignty, develop solidarity, and g… https://t.co/5vgRCB1o5hNationalistische Strömungen überwinden wir, indem wir uns zu einer europäischen Souveränität bekennen, solidarisch… https://t.co/kTwxPZKpRuI giovani tedeschi aspettano tutto dall'Europa perchè ricordano la propria storia. #Karlspreis
-https://t.co/iEMb5KdweaGermany’s young people have great expectations of Europe because they remember their country’s history. #Karlspreis
-https://t.co/iEMb5KdweaDie deutsche Jugend setzt auf Europa, denn sie ist sich ihrer Geschichte bewusst. #Karlspreis
-https://t.co/iEMb5KdweaQuem disse que a Europa não tinha futuro? #Karlspreis
-https://t.co/35PZ78nBq0¿Quién ha dicho que Europa no tiene futuro? #Karlspreis
-https://t.co/35PZ78nBq0Chi ha detto che l’Europa non aveva futuro? #Karlspreis
-https://t.co/35PZ78nBq0Who said there was no future for Europe? #Karlspreis
-https://t.co/35PZ78nBq0Wer hat gesagt, Europa habe keine Zukunft? #Karlspreis
-https://t.co/35PZ78nBq0Para a Europa: 
+The first electric @MercedesBenz made in France!
+Thank you Dieter Zetsche for your commitment. Your choice of investing in France shows that France is back. #ChooseFrance https://t.co/6F0cRBUcTR
+RT @FedFranceSki: La FFS et les stations Olympiques de @courchevel et de @Meribel3vallees ont le plaisir d’annoncer que la FRANCE vient d’ê…
+Soyons pragmatiques : nous connaîtrons encore des périodes de tensions, mais il faut continuer, sans relâche, à construire la stabilité et la paix au Moyen-Orient. #EUWesternBalkansSummit
+L'Histoire est revenue et le temps des décisions est là. #EUWesternBalkansSummit https://t.co/EGF0a1tOjQ
+L'accord de 2015 sur le nucléaire iranien est un bon accord. Cet accord peut être complété, pour tenir compte des préoccupations de tous. Nous voulons poursuivre le dialogue et construire un cadre de confiance au Moyen-Orient, qui seul empêchera l'escalade.#EUWesternBalkansSummit
+Si nous voulons avoir une Union européenne plus forte il nous faut la réformer avant de l'élargir.
+Les Balkans occidentaux font l'objet de multiples pressions. Notre intérêt comme notre responsabilité : ancrer les pays des Balkans auprès de l'Union européenne. Sans que cela ne remette en cause notre unité. https://t.co/ZdPjO13aw4
+LIVE | Conférence de presse à Sofia. #EUWesternBalkansSummit
+https://t.co/ZMZCh86AQ7
+Across the world, lesbian, gay, bisexual and trans people are victims of discrimination and violence, and even sentenced to death. 
+We all have the right to be ourselves. Denying that right and causing suffering is unacceptable and we condemn it as such. #IDAHOBIT2018 https://t.co/fSCfG7jpDg
+Partout dans le monde des gays, lesbiennes, bisexuels et personnes trans sont discriminés, victimes de violence, voire condamnés à mort. 
+Être soi-même est un droit pour chacun. Le nier et causer la souffrance est inacceptable. Et nous le condamnons comme tel. #IDAHOBIT2018
+Le sujet du jour : développer les partenariats avec les Balkans, pour garantir notre sécurité commune. Quelques instants avant la première séance de travail à Sofia, en Bulgarie : https://t.co/5SnoinlBmj
+Quand des défis menacent de déstabiliser le monde, la seule solution : combiner nos forces pour y répondre d'une même voix. Prêts à les relever avec nos amis allemands et britanniques. La souveraineté européenne est garante de la stabilité internationale. https://t.co/EkZJGY8ecC
+We are determined to lead the fight: in 2019, France will bring together players in the fight against AIDS, TB and malaria for the first time with @GlobalFund which has prevented 22 million deaths since 2002. https://t.co/P1pwJCtcp2
+Nous sommes déterminés à mener la lutte : pour la première fois, la France réunira en 2019 les acteurs engagés dans la lutte contre le sida, la tuberculose et le paludisme avec @GlobalFund qui a évité 22 millions de morts depuis 2002. Plus d'informations : https://t.co/CCQbbIk1kQ
+La France paye une nouvelle fois le prix du sang mais ne cède pas un pouce aux ennemis de la liberté (2/2).
+Toutes mes pensées vont aux victimes et aux blessés de l’attaque au couteau perpétrée ce soir à Paris, ainsi qu’à leurs proches. Je salue au nom de tous les Français le courage des policiers qui ont neutralisé le terroriste (1/2).
+Per battere i nazionalismi: prendere atto di avere una sovranità europea, sviluppare la solidarietà... e non mollare nulla! #Karlspreis
+https://t.co/Y3e9fAMWOl
+To overcome all forms of nationalism, we need to be proud of having European sovereignty, develop solidarity, and give no ground! #Karlspreis
+https://t.co/Y3e9fAMWOl
+Nationalistische Strömungen überwinden wir, indem wir uns zu einer europäischen Souveränität bekennen, solidarisch sind – und nicht zurückweichen! #Karlspreis
+https://t.co/Y3e9fAMWOl
+I giovani tedeschi aspettano tutto dall'Europa perchè ricordano la propria storia. #Karlspreis
+https://t.co/iEMb5Kdwea
+Germany’s young people have great expectations of Europe because they remember their country’s history. #Karlspreis
+https://t.co/iEMb5Kdwea
+Die deutsche Jugend setzt auf Europa, denn sie ist sich ihrer Geschichte bewusst. #Karlspreis
+https://t.co/iEMb5Kdwea
+Quem disse que a Europa não tinha futuro? #Karlspreis
+https://t.co/35PZ78nBq0
+¿Quién ha dicho que Europa no tiene futuro? #Karlspreis
+https://t.co/35PZ78nBq0
+Chi ha detto che l’Europa non aveva futuro? #Karlspreis
+https://t.co/35PZ78nBq0
+Who said there was no future for Europe? #Karlspreis
+https://t.co/35PZ78nBq0
+Wer hat gesagt, Europa habe keine Zukunft? #Karlspreis
+https://t.co/35PZ78nBq0
+Para a Europa: 
 1. Não podemos ser fracos. Devemos fazer a escolha certa. 
-2. Não podemos dividir-nos. Devemos esta… https://t.co/ZOK1YMwWgTPor y para Europa: 
+2. Não podemos dividir-nos. Devemos estar ainda mais unidos. 
+3. Não podemos ter medo. Devemos ousar e agir. 
+4. Não podemos esperar. Devemos agir agora.
+https://t.co/KLlGTMQpC8
+Por y para Europa: 
 1. No seamos débiles. Elijamos. 
 2. No estemos divididos. Unámonos. 
-3. No tengamos miedo. Atre… https://t.co/8Mi6QA0jpfPer l'Europa: 
+3. No tengamos miedo. Atrevámonos. 
+4. No esperemos. Actuemos ahora.
+https://t.co/KLlGTMQpC8
+Per l'Europa: 
 1. Non siamo deboli. Scegliamo. 
 2. Non siamo divisi. Uniamoci.
-3. Non abbiamo paura. Osiamo fare.… https://t.co/kPOs1Rco8nFor Europe:
+3. Non abbiamo paura. Osiamo fare. 
+4. Non aspettiamo. Agiamo ora.
+https://t.co/KLlGTMQpC8
+For Europe:
 1. We must not be weak. We must choose.
 2. We must not be divided. We must unite.
-3. We must not be afr… https://t.co/uteN8sfsoiFür Europa: 
+3. We must not be afraid. We must be daring.
+4. We must not wait. We must act now.
+https://t.co/KLlGTMQpC8
+Für Europa: 
 1. Seien wir nicht schwach! Entscheiden wir uns! 
-2. Lassen wir uns nicht spalten! Handeln wir gemeins… https://t.co/9BcgzF1X91Le 10 mai, la France célèbre la journée nationale des mémoires de la traite, de l'esclavage et de leurs abolitions.… https://t.co/0GlMGVnQ8gUne nouvelle étape importante pour la protection de l'environnement : large adoption à l'ONU, à l’initiative de la… https://t.co/WKBH4wKEDjA new step for the protection of the environment : on the initiative of France, the resolution opening the work of… https://t.co/PFEAYfhYh7Qui a dit que l’Europe n’avait pas d’avenir ? #Karlspreis https://t.co/1fA4qhNJUnJe crois à une citoyenneté européenne plus forte mais elle ne viendra pas se substituer aux nationalités. Elle leur… https://t.co/TBvSRDHspNUn cœur d’Europe très intégré mais toujours ouvert.
-J'assume cette Europe à plusieurs vitesses parce qu'elle est dé… https://t.co/MHqRQpICNUPour vaincre les nationalismes : assumer d'avoir une souveraineté européenne, développer la solidarité... et ne rie… https://t.co/AM37S715kU
+2. Lassen wir uns nicht spalten! Handeln wir gemeinsam! 
+3. Seien wir nicht ängstlich! Seien wir mutig! 
+4. Warten wir nicht ab! Lassen Sie uns jetzt handeln!
+https://t.co/KLlGTMQpC8
+Le 10 mai, la France célèbre la journée nationale des mémoires de la traite, de l'esclavage et de leurs abolitions. N'oublions pas l'actualité du combat pour la liberté. #10mai
+Une nouvelle étape importante pour la protection de l'environnement : large adoption à l'ONU, à l’initiative de la France, de la résolution qui ouvre les travaux du Pacte Mondial pour l'Environnement. 
+https://t.co/Ajo721k0C9
+A new step for the protection of the environment : on the initiative of France, the resolution opening the work of the Global Pact for the Environment has been widely approved at the UN.
+Qui a dit que l’Europe n’avait pas d’avenir ? #Karlspreis https://t.co/1fA4qhNJUn
+Je crois à une citoyenneté européenne plus forte mais elle ne viendra pas se substituer aux nationalités. Elle leur donnera plus de force. #Karlspreis
+Un cœur d’Europe très intégré mais toujours ouvert.
+J'assume cette Europe à plusieurs vitesses parce qu'elle est déjà à plusieurs vitesses. À nous d'accélérer et d'arrêter de reculer. #Karlspreis https://t.co/431h1yQGsy
+Pour vaincre les nationalismes : assumer d'avoir une souveraineté européenne, développer la solidarité... et ne rien lâcher ! #Karlspreis
+https://t.co/tJR0jHBHrY
+La clef de l'avenir européen : souveraineté et solidarité.
+L'erreur de ces dernières années est d'avoir laissé la souveraineté aux nationalistes. #Karlspreis
+Pour construire une Europe plus unie, plus souveraine, plus démocratique, sortons de la logique où un seul suffit à bloquer le club.
+Celui qui est contre doit laisser les autres avancer. Mais la porte doit toujours rester ouverte. #Karlspreis
+L’Europe regarde trop ses petites différences et oublie son rôle et son unité. #Karlspreis https://t.co/60yTGP7Wh1
+Erasmus offre la possibilité à des jeunes d'avoir une aventure européenne.
+C’est une des plus belles idées de la construction européenne. #Karlspreis
+Sur les universités européennes : l'idée n'est pas de construire de nouvelles universités mais de regrouper les universités actuelles à travers l'Europe. #Karlspreis
+Avec la jeunesse européenne, à suivre en direct : https://t.co/EacNwtabpV
+#Karlspreis https://t.co/MXM2vsl5y0
+Seule l’Europe dessine cette combinaison de l’attachement à la liberté et à l’égalité. #Karlspreis
+LIVE l Avec la jeunesse européenne. https://t.co/mPZ1BH1q6B
+Dessinons ensemble ces 30 ans d'Europe qui sont devant nous et faisons-le maintenant. #Karlspreis https://t.co/kVNXqpwG6y
+Réveillez-vous, la France a changé ! #Karlspreis https://t.co/1FDJ5vpAjJ
+Nous sommes, nous Européens, co-dépositaires d’un multilatéralisme que je crois fort. #Karlspreis https://t.co/lRiwkPhyAV
+Pour l'Europe : 
+1. Ne soyons pas faibles. Choisissons. 
+2. Ne soyons pas divisés. Unissons-nous. 
+3. N'ayons pas peur. Osons faire. 
+4. N'attendons pas. Agissons maintenant.
+Nous avons à nous battre pour quelque chose de plus grand que nous-mêmes : reforger une Europe plus forte. N'ayons pas peur de sortir de nos habitudes. #Karlspreis
+N'ayons pas peur du monde dans lequel nous vivons. N'ayons pas peur de nos principes. Ne les trahissons pas. #Karlspreis https://t.co/ey2pIzxduN
+La jeunesse allemande attend tout de l'Europe parce qu'elle se souvient de son histoire. #Karlspreis
+Le risque européen est aujourd'hui celui de la division. La seule solution qui est la nôtre : l'unité. Les divisions nous poussent à l'inaction. #Karlspreis https://t.co/pglgRj3Caq
+Le rêve européen est aujourd'hui rongé par le doute. À nous de décider si on veut le faire vivre ou le laisser mourir. #Karlspreis https://t.co/oolSFDQTnz
+Nous avons fait le choix de construire la paix au Proche et Moyen-Orient. D'autres puissances ne respectent pas leur parole. Nous sommes les garants de la stabilité. #Karlspreis
+L'Europe a connu ce miracle historique de 70 années de paix. Mais si je pense à la Pologne, aux pays baltes, à l'Espagne, ils ont connu l’autoritarisme ou le totalitarisme. #Karlspreis
+RT @Elysee: LIVE | À l’heure de l’épreuve de vérité pour l’Europe, le Président @EmmanuelMacron reçoit le Prix Charlemagne et réaffirme sa…
+À la jeunesse européenne :
+Inventez !
+Proposez !
+Ne vous résignez pas.
+
+#Karlspreis #PrixCharlemagne https://t.co/D0Bjzh1ndk
+À Aix-la-Chapelle pour le #PrixCharlemagne. Cette ville est au cœur de l’histoire de l’Europe. Très heureux de voir la jeunesse européenne s’engager pour rapprocher nos peuples. #Karlspreis https://t.co/6HplRhE2em
+Ces dernières années l'Europe s'est divisée : entre l'Europe du nord et du sud sur la crise financière et entre l'Europe de l'est et de l'ouest sur les migrations. Nous devons recréer des solidarités face à chacun de ces défis. #KarlsPreis
+Pour avancer sur l’Europe, nous devons dépasser nos égoïsmes et nos peurs.
+https://t.co/jU0UXdIWtT
+J'espère beaucoup de la Chancelière. 
+Nous devons être à la hauteur de ce moment historique et œuvrer ensemble à une Europe plus unie, plus souveraine et plus démocratique. #KarlsPreis
+Nous, Européens, avons décidé de rester dans le cadre de l'accord nucléaire de 2015.
+https://t.co/9oNe7lvcFI
+Sur l'Iran nous avons un désaccord avec le Président Trump. Nous pouvons le dépasser avec une négociation plus large.
+L'accord nucléaire iranien, nous l'avons négocié, nous l'avons signé. Il permet de contrôler l'activité nucléaire jusqu'en 2025.
+30 jours en 5 minutes. Retour sur le mois d'avril.
+Pour suivre mon action, abonnez-vous à ma chaîne Youtube : https://t.co/vSP5ZRUhFu https://t.co/SPz1iIWLzV
+LIVE | Le 9 mai 1950, Robert Schuman proposait un projet qui paraissait impossible : l’Europe. Mon projet : la refonder. À Aix-la-Chapelle pour un appel à l’action.
+https://t.co/tQA9yT3pSV
+RT @EU_Commission: It is time to decide what the European Union at 27 should be. 
+Whatever happens, it must be a Europe built by Europeans.…
+La France, l’Allemagne et le Royaume-Uni regrettent la décision américaine de sortir de l’accord nucléaire iranien. Le régime international de lutte contre la prolifération nucléaire est en jeu.
+https://t.co/fHuuUMUsCj
+France, Germany, and the UK regret the U.S. decision to leave the JCPOA. The nuclear non-proliferation regime is at stake.
+Nous travaillerons collectivement à un cadre plus large, couvrant l’activité nucléaire, la période après 2025, les missiles balistiques et la stabilité au Moyen-Orient, en particulier en Syrie, au Yémen et en Irak.
+https://t.co/QKoEQVoT7H
+We will work collectively on a broader framework, covering nuclear activity, the post-2025 period, ballistic activity, and stability in the Middle-East, notably Syria, Yemen, and Iraq.
+Deux générations, une mémoire partagée.
+Fidèles au poste du #8mai, heureux de retrouver les vétérans, mais aussi de découvrir les visages de la relève. https://t.co/68UiyO1Hdf
+Le #8mai c'est la fin de la guerre, le retour de la paix et le début de l'Europe. https://t.co/25RBL6FmlZ
+Pour tous nos soldats. Ceux qui ont donné leur vie hier pour notre liberté. Ceux qui se battent en ce moment même pour notre sécurité. https://t.co/V6AAnuVZgF
+LIVE | 8 mai 1945. Se souvenir pour mieux construire. 
+https://t.co/ypxLFj3QCs
+Par-delà les océans, c’est sur la baie de Lannion que s’échouent mes pensées. 
+Pour Corinne Erhel. Disparue il y a un an, en se battant pour nos idées. Irremplaçable amie.
+Décider, ensemble, de regarder l'avenir. https://t.co/QTV1gNzep2
+Je ne veux pas dire aux Calédoniens quoi choisir lors du référendum sur l'indépendance. 
+Je leur propose simplement un projet d'avenir. 
+À réécouter ici : https://t.co/scCBDOTZNG
+En Nouvelle-Calédonie nous devons construire les voies et moyens d'une souveraineté alimentaire durable en accord avec une stratégie environnementale ambitieuse.
+L’ambition pour la Nouvelle-Calédonie : en faire un territoire exportateur, au cœur de l’Indo-Pacifique. https://t.co/107uuhmX36
+La meilleure façon d'aborder les mois qui viennent, c'est se poser cette question : quel avenir voulons-nous construire en Nouvelle-Calédonie ?
+Le référendum était prévu. C'est une étape qui ne doit pas nous diviser. 
+Il nous appartient de ne pas faire reculer l'histoire.
+C'est aux Calédoniens qu'il appartient de choisir leur avenir.
+Du fond du cœur : la France ne serait pas la même sans la Nouvelle-Calédonie, car elle est une part de cette France-monde.
+Elle est au cœur de la vocation de la France : rayonner partout dans le monde. https://t.co/1HypRungiU
+Je ne prendrai pas parti dans le référendum sur l'indépendance de la Nouvelle-Calédonie.
+En Nouvelle-Calédonie, le temps n'est plus celui de la possession unilatérale mais d'un lien à réinventer.
+Le combat des kanak pour retrouver leur liberté était juste. 
+Le reconnaître c’est faire rentrer dans la dignité ceux qui en avaient été écarté. https://t.co/8wu9JlOmSh
+Pendant la période coloniale, la France a souvent perdu le sens de notre histoire et de ses valeurs. 
+Notre histoire a ses ombres et ses lumières.
+Ce que je viens proposer sereinement en Nouvelle-Calédonie, c’est l’alliance des mémoires, pour avancer avec confiance dans l’avenir. https://t.co/qdLFzRsoPD
+La civilisation kanak est plus ancienne que la République.
+Ses hommes ont combattu quelques années plus tard pour défendre la République par-delà les mers. https://t.co/iFZ3qtWIAV
+Pendant ces trois jours en Nouvelle-Calédonie, j’ai vu une jeunesse ardente qui a envie d’avancer. https://t.co/hIvrIXmc4X
+Symbole de vie et d’avenir là où a coulé le sang. https://t.co/jJYDnrol6t
+LIVE | Discours sur la Nouvelle-Calédonie à Nouméa. https://t.co/OXx1hyyAxZ
+LIVE | Cérémonie de remise de l’acte de prise de possession de Nouvelle-Calédonie. https://t.co/L7jlnAlcdV
+À Ouvéa, trente ans après le drame. Je suis venu porter un message d’apaisement et d’avenir. https://t.co/2VPCoCUazb
+C’est la première fois qu’un Président de la République se rend sur l’île d’Ouvéa en Nouvelle-Calédonie. Je suis très touché par votre accueil. https://t.co/1zhTSpD5Aw
+LIVE | 30 ans après, nous n’oublions pas : recueillement pour les personnes décédées lors de l’assaut de la grotte de Gossanah.
+https://t.co/UcIK3n1SoG

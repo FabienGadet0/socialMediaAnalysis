@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 
 import tweepy
 import time
@@ -23,16 +22,17 @@ def get_profile(name, file):
     try:
         user = api.get_user(screen_name = name, count = 1)
         # user = json.dumps(user)
-        file.write ("%s\n\n\n" % user)
+   
+        file.write ("name :%s\nlocation : %s\npic : %s\nfriend count : %i \ndescription : %s\nurl : %s\n\n" % (user.name, user.location, user.profile_image_url_https, user.friends_count, user.description, user.url))
     except:
         print('error profile', sys.exc_info()[0])
 
-def get_tweet(name, file, count = 25):
+def get_tweet(name, file, count = 100):
     try:
         # timeline = json.loads(json.dumps(api.user_timeline(screen_name=name, count= count)[0]))
-        timeline = api.user_timeline(screen_name=name, count= count)
+        timeline = api.user_timeline(screen_name=name, count= count,tweet_mode='extended')
         for tweet in timeline:
-            file.write ("%s"  % tweet.text)
+            file.write ("%s\n"  % tweet.full_text)
     except:
         print ('Error tweets', sys.exc_info()[0])
  
